@@ -6,21 +6,14 @@
 		"extra"  : "エクストラ",
 		"exit"   : "ゲーム終了する"
 	},
-	"saveload" : {
-		"save"  : "セーブ",
-		"load"   : "ロード",
-		"title" : "タイトル",
-		"exit"   : "終了",
-		"memoText" : "クリックしてコメントを記入",
-		"inputmemo" : "No.%02d のコメントを編集"
-	},
-	"extra" : {
+	"extra_mod_parent" : {
 		"cg" : "CG鑑賞",
-		"scene" : "シーン鑑賞",
-		"sound" : "BGM鑑賞",
-		"video" : "動画鑑賞",
+		"scene_mod_key" : "シーン鑑賞",
+		"sound" : "BGM鑑賞 mod value",
+		"add_pair": "ペア追加",
 		"unlock" : "EXTRA全開放"
 	},
+	"add_root_pair": "ルートにペア追加",
 	"config" : {
 		"genaral" : "基本設定",
 		"effectSound" : "演出・サウンド設定",
